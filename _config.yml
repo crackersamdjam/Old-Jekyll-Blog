@@ -6,8 +6,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   My personal site
 
 # baseurl: "" # for testing locally
-baseurl: "/blog" # the subpath of the site
-url: "https://crackersamdjam.github.io" # the base hostname & protocol for the site
+baseurl: "" # the subpath of the site
+url: "https://new.ericpei.ca" # the base hostname & protocol for the site
 
 # not sure if I need to change those, but right now my custom domain is working fine
 # right now, crackersamdjam.github.io/blog -> new.ericpei.ca
