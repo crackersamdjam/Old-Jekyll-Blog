@@ -33,9 +33,9 @@ footer:
       link: "#"
   follow:
     - name: LinkedIn
-      link: http://linkedin.com/in/crackersamdjam
+      link: https://linkedin.com/in/crackersamdjam
     - name: GitHub
-      link: http://github.com/crackersamdjam
+      link: https://github.com/crackersamdjam
 
 # Build settings
 markdown: kramdown
