@@ -23,19 +23,18 @@ header:
     - name: Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: me@ericpei.ca
+      link: mailto:me@ericpei.ca
   follow:
-    - name: LinkedIn
-      link: https://linkedin.com/in/crackersamdjam
+    - name: Keybase
+      link: https://keybase.io/crackersamdjam
     - name: GitHub
       link: https://github.com/crackersamdjam
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/eric-pei-6847981a3/
 
 # Build settings
 markdown: kramdown
