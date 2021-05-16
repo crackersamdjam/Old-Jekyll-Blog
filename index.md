@@ -5,10 +5,21 @@ profile_picture:
   alt: website picture
 ---
 
+<article align>
+	<header align>
+		<!-- <img src="images/icon2.png" alt="" class="small"/> -->
+		<h2 align>Hello!</h2>
+		<p align>My name is Eric Pei.</p>
+	</header>
+	<p>I am a grade 12 student studying at Don Mills Collegiate Institute.
+	<br>
+	My online handles are crackersamdjam and implementation.</p>
+</article>
+
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+reeee
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+	I have no idea what I'm doing.
 </p>
