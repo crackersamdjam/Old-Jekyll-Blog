@@ -5,21 +5,14 @@ profile_picture:
   alt: website picture
 ---
 
-<article align>
-	<header align>
-		<!-- <img src="images/icon2.png" alt="" class="small"/> -->
-		<h2 align>Hello!</h2>
-		<p align>My name is Eric Pei.</p>
-	</header>
-	<p>I am a grade 12 student studying at Don Mills Collegiate Institute.
-	<br>
-	My online handles are crackersamdjam and implementation.</p>
-</article>
+<h2>Hello!</h2>
 
 <p>
-reeee
+	My name is Eric Pei.
 </p>
 
 <p>
-	I have no idea what I'm doing.
+	I am a grade 12 student studying at Don Mills Collegiate Institute.
+<br>
+	My online handles are crackersamdjam and implementation.</p>
 </p>
