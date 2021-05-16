@@ -14,5 +14,5 @@ profile_picture:
 <p>
 	I am a grade 12 student studying at Don Mills Collegiate Institute.
 <br>
-	My online handles are crackersamdjam and implementation.</p>
+	My online handles are crackersamdjam and implementation.
 </p>
