@@ -19,7 +19,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: 
     - name: Blog
 
 footer:
