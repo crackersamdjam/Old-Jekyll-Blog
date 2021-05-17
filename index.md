@@ -5,14 +5,9 @@ profile_picture:
   alt: website picture
 ---
 
-<h2>Hello!</h2>
+<h2>This is Eric's blog site.</h2>
 
 <p>
-	My name is Eric Pei.
+	I've decided to create a separate site for my blogs. I am currently moving my CCC 2020 article over and writing blogs for more recent contests.
 </p>
 
-<p>
-	I am a grade 12 student studying at Don Mills Collegiate Institute.
-<br>
-	My online handles are crackersamdjam and implementation.
-</p>
